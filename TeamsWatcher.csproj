@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <!-- Für .NET 9 einfach auf net9.0-windows ändern -->
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>TeamsWatcher</AssemblyName>
+    <RootNamespace>TeamsWatcher</RootNamespace>
+  </PropertyGroup>
+
+</Project>
